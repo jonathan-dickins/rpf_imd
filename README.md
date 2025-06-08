@@ -1,7 +1,5 @@
 # RPF Indices of Multiple Deprivation task
 
-## Tasks
-
 - **Task 1:** Merging IMD datasets - `merging_indices.R`  
 - **Task 2:** Visualise IMD data - `mapping.R`  
 - **Task 3:** Command line postcode lookup tool - `cl_tool.R`  
@@ -46,7 +44,7 @@ See `approach_and_narrative.docx` for assumptions and limitations.
 
 ### Postcode lookup
 
-- [Full Postcode Lookup with Scottish Data Zones](https://geoportal.statistics.gov.uk/datasets/3be72478d8454b59bb86ba97b4ee325b/about)
+- [OND Postcode Directory with Scottish Data Zones](https://geoportal.statistics.gov.uk/datasets/3be72478d8454b59bb86ba97b4ee325b/about)
 
 ### Shapefiles
 
